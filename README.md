@@ -7,5 +7,5 @@ Auto solving
 Visualization of auto solving i.e., Backtracking Algorithm visualization
 Options: Reset, Clear game
 
-![image1](/1.png)
+![image1](/1.PNG)
 
