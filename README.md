@@ -9,5 +9,5 @@ This sudoku game is developed using pygame library and automated using backtrack
 **Manual Solving** <br/>
 
 ## Screenshots
-![image1](/1.PNG)  ![image2](2.PNG)
+<img src="1.PNG" width="400" height="500">  ![image2](2.PNG)
 
