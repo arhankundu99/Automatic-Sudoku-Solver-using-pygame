@@ -8,5 +8,6 @@ This sudoku game is developed using pygame library and automated using backtrack
 **Options: Reset, Clear game** <br/>
 **Manual Solving** <br/>
 
+## Screenshots
 ![image1](/1.PNG)  ![image2](2.PNG)
 
