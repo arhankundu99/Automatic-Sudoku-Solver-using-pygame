@@ -26,3 +26,7 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 
 ### Screenshots
 <img src="4.PNG" width="400" height="400" align="left">  <img src="3.PNG" width="400" height="400" aligh="right">
+
+### Time and Space Complexity
+Time complexity of backtracking algorithm is ```O(N^N)``` where N is the grid size <br/>
+Space complexity is ```O(N * N)```
