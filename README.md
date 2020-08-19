@@ -24,4 +24,5 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 1) **Backtracking Visualisation** <br/>
 2) **Auto Solving** <br/>
 
-
+### Screenshots
+<img src="4.PNG" width="400" height="400">  <img src="3.PNG" width="400" height="400">
