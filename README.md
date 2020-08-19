@@ -1,19 +1,27 @@
 # Backtracking Visualiser
 
-## 1.Sudoku
+## Sudoku
 Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the digits from 1 to 9. This sudoku game is developed using pygame library and automated using backtracking algorithm
 
-## Features implemented
+### Features implemented
 **Game Interface to Play** <br/>
 **Auto solving** <br/>
 **Visualization of auto solving i.e., Backtracking Algorithm visualization** <br/>
 **Options: Reset, Clear game** <br/>
 **Manual Solving** <br/>
 
-## Screenshots
+### Screenshots
 <img src="1.PNG" width="400" height="500">  <img src="2.PNG" width="400" height="500">
 
-## Time and Space Complexity
+### Time and Space Complexity
 Time complexity of backtracking algorithm is ```O(N^(N * N))``` where N is the grid size <br/>
 Space complexity is ```O(N * N)```
+
+## N Queen
+The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal
+
+### Features Implemented
+**Backtracking Visualisation** <br/>
+**Auto Solving** <br/>
+
 
