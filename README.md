@@ -11,7 +11,7 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudok
 5) **Manual Solving** <br/>
 
 ### Screenshots
-<img src="1.PNG" width="400" height="500">  <img src="2.PNG" width="400" height="500">
+<img src="images/1.PNG" width="400" height="500">  <img src="images/2.PNG" width="400" height="500">
 
 ### Time and Space Complexity
 Time complexity of backtracking algorithm is ```O(N^(N * N))``` where N is the grid size <br/>
