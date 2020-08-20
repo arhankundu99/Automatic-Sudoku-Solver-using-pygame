@@ -30,3 +30,12 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 ### Time and Space Complexity
 Time complexity of backtracking algorithm is ```O(N^N)``` where N is the grid size <br/>
 Space complexity is ```O(N * N)```
+
+## Bubble sort visualiser
+Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+
+### Screenshots
+<img src="images/5.PNG" width="400" height="400" align="left">  <img src="images/6.PNG" width="400" height="400" aligh="right">
+
+### Time Complexity
+Time complexity of bubble sort is ```O(N*N)```
