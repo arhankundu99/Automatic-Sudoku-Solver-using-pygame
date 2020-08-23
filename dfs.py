@@ -58,6 +58,8 @@ def display_grid():
                 pygame.draw.rect(screen, (255, 0, 0), (j * 100 + 5, i * 100 + 5, 90, 90))
             elif grid[i][j] == 3:
                 pygame.draw.rect(screen, (0, 255, 0), (j * 100 + 5, i * 100 + 5, 90, 90))
+            else:
+                pygame.draw.rect(screen, (255, 255, 255), (j * 100 + 5, i * 100 + 5, 90, 90))
     update_display()
 
 
