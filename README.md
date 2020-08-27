@@ -41,7 +41,8 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 Time complexity of bubble sort is ```O(N*N)```
 
 ## DFS
-Depth-first search is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node and explores as far as possible along each branch before backtracking.
+Depth-first search is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node and explores as far as possible along each branch before backtracking. <br/>
+DFS traverses the graph depthwise. when it reaches a dead end, it backtracks and continues the process
 
 ### Features
 Add source, destination, obstacles and visualise DFS!
