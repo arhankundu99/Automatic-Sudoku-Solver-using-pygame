@@ -12,6 +12,12 @@ Time Complexity: `O(E+V)`
 <img src="https://media.giphy.com/media/RIGJMHqq3tJ3JwW7Uf/giphy.gif" alt="alt text" height = 500 >
 Merge Sort is a Divide and Conquer algorithm. It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves. The merge() function is used for merging two halves. The merge(arr, l, m, r) is key process that assumes that arr[l..m] and arr[m+1..r] are sorted and merges the two sorted sub-arrays into one. <br/>
 
+## Quick Sort
+<img src="https://media.giphy.com/media/UoRVGwKjH8VjOSiGpg/giphy.gif" alt="alt text" height = 500 >
+Quick sort is a highly efficient sorting algorithm and is based on partitioning of array of data into smaller arrays. A large array is partitioned into two arrays one of which holds values smaller than the specified value, say pivot, based on which the partition is made and another array holds values greater than the pivot value.
+
+Quicksort partitions an array and then calls itself recursively twice to sort the two resulting subarrays.The average and worst-case complexity are `O(nLogn)` and `O(n * n)`, respectively.
+
 ## Sudoku
 Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the digits from 1 to 9. This sudoku game is developed using pygame library and automated using backtracking algorithm
 
