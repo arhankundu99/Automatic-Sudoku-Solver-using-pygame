@@ -3,8 +3,9 @@
 Breadth-first search is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root, and explores all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
 
 ### Features
-Add source, destination, obstacles and visualise BFS!
-<img src="https://media.giphy.com/media/fYrCkDZNjKOAM5bQ9v/giphy.gif" alt="alt text" height = 500 >
+Add source, destination, obstacles and visualise BFS! <br/>
+<br/>
+<img src="https://media.giphy.com/media/d5qcD2alh3hvGYgJXG/giphy.gif" alt="alt text" height = 500 >
 ## Sudoku
 Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the digits from 1 to 9. This sudoku game is developed using pygame library and automated using backtracking algorithm
 
