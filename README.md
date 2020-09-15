@@ -6,6 +6,13 @@ Breadth-first search is an algorithm for traversing or searching tree or graph d
 Add source, destination, obstacles and visualise BFS! <br/>
 <br/>
 <img src="https://media.giphy.com/media/d5qcD2alh3hvGYgJXG/giphy.gif" alt="alt text" height = 500 >
+<br/>
+Time Complexity: `O(E+V)`
+## Merge Sort
+<img src="https://media.giphy.com/media/RIGJMHqq3tJ3JwW7Uf/giphy.gif" alt="alt text" height = 500 >
+Merge Sort is a Divide and Conquer algorithm. It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves. The merge() function is used for merging two halves. The merge(arr, l, m, r) is key process that assumes that arr[l..m] and arr[m+1..r] are sorted and merges the two sorted sub-arrays into one. <br/>
+Time Complexity: `O(nlogn)`
+
 ## Sudoku
 Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the digits from 1 to 9. This sudoku game is developed using pygame library and automated using backtracking algorithm
 
