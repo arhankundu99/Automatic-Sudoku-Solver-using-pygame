@@ -35,20 +35,6 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudok
 Time complexity of backtracking algorithm is ```O(N^(N * N))``` where N is the grid size <br/>
 Space complexity is ```O(N * N)```
 
-## N Queen
-The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal
-
-### Features Implemented
-1) **Backtracking Visualisation** <br/>
-2) **Auto Solving** <br/>
-
-### Screenshots
-<img src="images/4.PNG" width="400" height="400" align="left">  <img src="images/3.PNG" width="400" height="400" aligh="right">
-
-### Time and Space Complexity
-Time complexity of backtracking algorithm is ```O(N^N)``` where N is the grid size <br/>
-Space complexity is ```O(N * N)```
-
 ## Bubble sort visualiser
 Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
